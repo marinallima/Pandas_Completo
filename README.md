@@ -1,2 +1,2 @@
 # Pandas_Completo
-Curso completo de Pandas - Python.
+Curso completo e avançado de Pandas - Python.
